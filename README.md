@@ -13,7 +13,7 @@ Repositório para armazenar resumo sobre Git e Github do curso versionamento do 
 |------|---------|
 | Gravando auterações no Repositório Local | [Resumos]() |
 | Plataforma da readme.so  | [Readme.so](https://readme.so/pt/editor) |
-| Site útil - Sintaxe Básica Marckdown  | [Marckdown](https://www.marckdownguide.org/basic-syntax/) |
+| Site útil - Sintaxe Básica Markdown  | [Markdown](https://www.markdownguide.org/basic-syntax/) |
 
 ````
 git init
